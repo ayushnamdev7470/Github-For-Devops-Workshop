@@ -5,3 +5,8 @@ git add . & git add <file name>
 git commit -m "Message"
 rm file name
 git restore <file name>
+git push origin master 
+git remote -v
+git remote set-url origin <token link>
+gh auth setup-git
+gh auth status
