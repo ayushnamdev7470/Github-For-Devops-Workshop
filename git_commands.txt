@@ -10,3 +10,4 @@ git remote -v
 git remote set-url origin <token link>
 gh auth setup-git
 gh auth status
+git pull origin master/main
