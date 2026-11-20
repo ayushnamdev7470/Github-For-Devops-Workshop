@@ -12,6 +12,7 @@ gh auth setup-git
 gh auth status
 git pull origin master/main
 git switch -c <branch name>
+git switch -c <branch name>
 git branch <branch name>
 git checkout -B <branch name>
 git branch
