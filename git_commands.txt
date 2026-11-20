@@ -20,3 +20,4 @@ git switch dev
 git log --oneline
 git log
 git checkout <branch name>
+git fetch
