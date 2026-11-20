@@ -16,3 +16,6 @@ git branch <branch name>
 git checkout -B <branch name>
 git branch
 git switch dev
+git log --oneline
+git log
+git checkout <branch name>
