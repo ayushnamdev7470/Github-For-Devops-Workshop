@@ -1,6 +1,11 @@
+"""Demonstrate a simple function."""
+
+
 def my_function():
+    """Return the sum of two numbers."""
     a = 5
     b = 6
-    return c
-my_function()
+    return a + b
 
+
+my_function()
